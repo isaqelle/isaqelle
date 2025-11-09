@@ -6,6 +6,15 @@
 + I enjoy spening a lot of my free-time in front of the computer, working on becoming a better coder :)
 
 
+(っ◔◡◔)っ 𝚜𝚔𝚒𝚕𝚕𝚜 𝚕𝚎𝚊𝚛𝚗𝚎𝚍 𝚜𝚘 𝚏𝚊𝚛: 
++ Python
++ Java
++ JavaScript
++ HTML + CSS
++ SQL
++ Agile methods
++ Unittesting with Python
+
 <!--
 **isaqelle/isaqelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
