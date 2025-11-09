@@ -1,4 +1,10 @@
-## Hi there 👋
+𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖌𝖎𝖙𝖍𝖚𝖇
+--
+𝔞𝔟𝔬𝔲𝔱 𝔪𝔢
++ I'm a second year student at HKR (Högskolan Kristianstad), studying Software Development.
++ I'm currenly learning Operating Systems & Computer Security.
++ I enjoy spening a lot of my free-time in front of the computer, working on becoming a better coder :)
+
 
 <!--
 **isaqelle/isaqelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
