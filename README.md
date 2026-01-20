@@ -2,7 +2,7 @@
 --
 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢
 + I'm a second year student at HKR (Högskolan Kristianstad), studying Software Development.
-+ I'm currenly learning Operating Systems & Computer Security.
++ I'm currenly learning Algorithms & Data Structures and Backend development.
 + I enjoy spening a lot of my free-time in front of the computer, working on becoming a better coder :)
 
 
