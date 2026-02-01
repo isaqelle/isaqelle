@@ -1,19 +1,13 @@
 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖌𝖎𝖙𝖍𝖚𝖇
 --
 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢
-+ I'm a second year student at HKR (Högskolan Kristianstad), studying Software Development.
-+ I'm currenly learning Algorithms & Data Structures and Backend development.
-+ I enjoy spening a lot of my free-time in front of the computer, working on becoming a better coder :)
++ I'm a **second year student at HKR** (Högskolan Kristianstad), studying **Software Development**.
++ Current courses: **Algorithms & Data Structures** and **Backend development**.
++ I like spending much of my free time on the computer, building random projects to improve my skills and become a better programmer.
 
+ᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗ
 
-(っ◔◡◔)っ 𝚜𝚔𝚒𝚕𝚕𝚜 𝚕𝚎𝚊𝚛𝚗𝚎𝚍 𝚜𝚘 𝚏𝚊𝚛: 
-+ Python
-+ Java
-+ JavaScript
-+ HTML + CSS
-+ SQL
-+ Agile methods
-+ Unittesting with Python
+(っ◔◡◔)っ skills:  || Python || Java || JavaScript || HTML/CSS || SQL || Agile Methods || Unittesting
 
 <!--
 **isaqelle/isaqelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
