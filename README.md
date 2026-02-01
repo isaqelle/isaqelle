@@ -5,7 +5,7 @@
 + Current courses: **Algorithms & Data Structures** and **Backend development**.
 + I like spending much of my free time on the computer, building random projects to improve my skills and become a better programmer.
 
-ᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗ
+ᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗ
 
 (っ◔◡◔)っ skills:  || Python || Java || JavaScript || HTML/CSS || SQL || Agile Methods || Unittesting
 
