@@ -7,7 +7,7 @@
 
 
 <div align="center">
-ᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗ<br>
+ᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗ<br>
 (っ◔◡◔)っ skills: <br><br>
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" />
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white" /><br>
-ᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗ
+ᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗᴗ
 </div>
 
 
